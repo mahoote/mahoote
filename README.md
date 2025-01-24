@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there! 👋
+Welcome to my GitHub!
+
+I'm currently working on an exciting project: a drinking game tool designed to create the ultimate night of fun. It tailors activities and games based on player preferences, like how drunk or active you want to be—ensuring every game night is unforgettable!
+
+Feel free to explore my previous projects, and I hope you enjoy what you find here.
 
 <!--
 **mahoote/mahoote** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
