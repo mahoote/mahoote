@@ -3,6 +3,10 @@ Welcome to my GitHub!
 
 I'm currently working on an exciting project: a drinking game tool app, DRUNKYARD, designed to create the ultimate night of fun. It tailors activities and games based on player preferences, like how drunk or active you want to be—ensuring every game night is unforgettable! Just get in touch if you wish to look at the repos.
 
+Check it out here:  
+🔗 [Try it on the web](https://drunkyard.app/)<br>
+📲 [Get it on Google Play](https://play.google.com/store/apps/details?id=dev.teigen.drunkyard)
+
 Feel free to explore my previous projects, and I hope you enjoy what you find here.
 
 <!--
